@@ -1,0 +1,19 @@
+Este código, simula bem uma maquininha de mercado ou loja, lhe dando opções de formas de pagamento com descontos, parcelamentos e juros. 
+Ao iniciar o programa é pedido para informar o valor da compra, após informado o valor o código irá lhe apresentar as opções. As formas são: 
+
+1 - á vista com cheque/dinheiro 
+2 - á vista no cartão 
+3 - 2x no cartão 
+4 - 3x no cartão ou mais  
+
+As opções são feitas e programadas em condições aninhadas com cara uma delas fazendo um cálculo diferente perante a opção selecionada. 
+
+Na primeira opção, pagando à vista você tem um desconto de 10% do valor total da sua compra. 
+
+Segunda, você tem um desconto de 5% por estar pagando à vista, mas no cartão. 
+
+Terceira, parcelando o valor total em 2x vezes não é lhe dado desconto, mas também ainda não é cobrado juros. 
+
+Quarta, parcelando em 3x ou mais l, é lhe acrescentado os juros de 20% nas suas faturas, aumentando o valor total no final das parcelas.  
+
+Escolhendo uma das formas de pagamento é mostrado pelo algoritmo o valor q irá e uma mensagem explicando o está sendo cobrado a mais ou a menos. 
